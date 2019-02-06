@@ -1,4 +1,4 @@
-# flutter_ldn
+# not-last-meetup
 
 This applications contains two flavors for Android. To run this app, you need to execute:
 ```
