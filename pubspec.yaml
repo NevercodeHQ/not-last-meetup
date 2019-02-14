@@ -27,7 +27,7 @@ dev_dependencies:
 
 flutter_icons:
   android: "alternative_icon"
-  image_path: "assets/number_two.jpg"
+  image_path: "assets/icon2.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
