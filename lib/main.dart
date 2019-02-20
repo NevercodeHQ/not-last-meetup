@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.indigo,
       ),
-      home: MyHomePage(title: 'Flutter LDN'),
+      home: MyHomePage(title: 'MWC Barcelona'),
     );
   }
 }
